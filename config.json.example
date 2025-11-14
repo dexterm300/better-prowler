@@ -1,0 +1,7 @@
+{
+  "ManagementAccountId": "123456789012",
+  "ManagementRoleName": "OrganizationAccountAccessRole",
+  "AuditRoleName": "SecurityAuditRole",
+  "Regions": []
+}
+
